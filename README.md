@@ -47,8 +47,8 @@ pip install numpy torch torchvision scikit-learn xgboost matplotlib seaborn tqdm
 
 | Model | Accuracy | F1 (macro) |
 |---|---|---|
-| Random Forest | — | — |
-| XGBoost | — | — |
+| Random Forest | 0.771 | 0.761 |
+| XGBoost | 0.780 | 0.773 |
 
 *(fill in after running)*
 
